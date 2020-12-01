@@ -166,3 +166,5 @@ spring.factories是由SpringFactoriesLoader工具类加载
 spring.factories位于classpath:/META-INF/目录
 SpringFactoriesLoader会加载jar包里面的spring.factories文件并进行合并
 ```
+###配置变量的引用
+ @profiles.active@
